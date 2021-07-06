@@ -11,6 +11,7 @@
 		- clean at home and let dry
 		- return to storage @errand @storage
 	- Generator
+	  collapsed:: true
 		- Winterize generator
 			- How to winterize or prepare a portable generator for long term storage Honda EU2000i
 			  https://www.youtube.com/watch?v=Umt38-8mgyU
@@ -50,6 +51,7 @@
 	- New better padlock for generator #tobuy
 	- [Building Electronics and Robots for the Desert - OrbSWARM](http://wiki.orbswarm.com/index.php/Building_Electronics_and_Robots_for_the_Desert)
 	- Battery Powered Soldering Iron #tobuy
+	  collapsed:: true
 		-
 		- https://www.amazon.com/UY-CHAN-Programmable-Pocket-size-Acceleration/dp/B07SQDZ9SV
 		- TS100
@@ -70,20 +72,24 @@
 			- USB-C
 			- 100-400C
 	- Bike
+	  collapsed:: true
 		- Installed Aukey Bluetooth speaker on bike
 		- New bike with out rear shock
 		- Some kind of persistence of vision on wheels and light
 	- LEDs
+	  collapsed:: true
 		- https://github.com/Aircoookie/WLED
 		- [Watch "LED Strips, what's the difference? WS2811, WS2812B, 2812Eco, WS2813, WS2815, SK6812, SK9822." on YouTube](https://youtu.be/QnvircC22hU)
 		- 3d print a clamp to hold down led strip and wires when soldering #3dprinting #project
 	- 3D Print ratchet strap organizer/clip #3dprinting
+	  collapsed:: true
 		- https://www.thingiverse.com/thing:3359193
 		- https://www.thingiverse.com/thing:3906508
 		- https://www.thingiverse.com/thing:3470984
 		- ![Pasted image](https://dynalist.io/u/9nqTssjH25krRfnAFnnowRoR)
 		- ![Pasted image](https://dynalist.io/u/asVV0sNoNBDGRiYrWrX38kZk)
 	- Camp electrical
+	  collapsed:: true
 		-
 		- Charge 100 AH batteries #important !(2020-08-01 | 2m)
 		- One of the 100 AH batteries is is showing an error `F05` when put on the charger
