@@ -96,6 +96,7 @@
 		- Replace broken switch on smaller 12V Battery (used for dome lights)
 		- Finish Black Rock Beach power box #project
 	- Burning Man 2019 Follow up Items
+	  collapsed:: true
 		- Solar Panel Stand
 			- https://www.amazon.com/dp/B07SS1CDZH/
 				- ![Pasted image](https://dynalist.io/u/6y5Z9PD3glBgDQ0jiRmeq_IS)
@@ -128,6 +129,7 @@
 		- Tools
 			- More craftsman versastack
 	- Tenseract #project
+	  collapsed:: true
 		- [LEDscustomize (@ledscustomize) • Instagram photos and videos](https://www.instagram.com/ledscustomize/?igshid=1hfhx3vy56bsz&fbclid=IwAR08iVXJ1vKzaYpmYZX-CAnt3syw7s93wynBEaSYQ23KRoKnJys2BOV_eSg)
 		- [home_Aoshowled](http://aoshowled.com/?fbclid=IwAR0pVXV96lmg8qe3Z10Px5BHSEW2KIbxjZTGL0Lze45A-Gu1ngeSidyVGms)
 		- [Interactive Light: LumenUs at GLOW Eindhoven](https://www.youtube.com/watch?v=v8SXWIZsKuA)
@@ -173,6 +175,7 @@
 		- Tensegrity Goes Big for Burning Man : 47 Steps (with Pictures)
 		  https://www.instructables.com/id/Tensegrity-Goes-Big-For-Burning-Man/
 	- Cover old scorpion motorcycle helment in LEDS #project #idea
+	  collapsed:: true
 		- Cover in LEDs
 		- Disco ball
 		- Add ventilation fan
