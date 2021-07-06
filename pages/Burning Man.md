@@ -1,10 +1,12 @@
 - Burning Man
 	- Sound System
+	  collapsed:: true
 		- Replace fans that are no longer spinning in speakers
 		- Clean Alto Speakers
 		- Create filter holder for speaker fans #3dprinting
 			- Create something that mounts to the outside of the speaker to hold filter
 	- Clean water Jerry cans #important #urgent
+	  collapsed:: true
 		- Bring cans back from storage @errand @storage
 		- clean at home and let dry
 		- return to storage @errand @storage
