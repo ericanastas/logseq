@@ -1,0 +1,184 @@
+- Burning Man
+	- Sound System
+		- Replace fans that are no longer spinning in speakers
+		- Clean Alto Speakers
+		- Create filter holder for speaker fans #3dprinting
+			- Create something that mounts to the outside of the speaker to hold filter
+	- Clean water Jerry cans #important #urgent
+		- Bring cans back from storage @errand @storage
+		- clean at home and let dry
+		- return to storage @errand @storage
+	- Generator
+		- Winterize generator
+			- How to winterize or prepare a portable generator for long term storage Honda EU2000i
+			  https://www.youtube.com/watch?v=Umt38-8mgyU
+				- Empty gas
+					- Run generator for 5 min
+					- Turn off generator
+					- Empty full tank
+						- tilt towards plug access panel
+					- Run geneator again to purge carb and fuel lines of remaining fuel
+					- Try to start geneator again with chock until it wont start
+				- Remove engine access panel'
+				- Change Oil
+					- Drain out oil with extension adapter tube
+					- Fill with oil until just at opening of dipstick
+						- check oil on a level surface
+				- Clean air cleaner
+					- Remove cover
+					- remove filters
+					- clean with dish soap
+					- Rinse clean side to dirty side
+					- Add a bit of engine oil to filter
+					- Reinstall filter
+				- Treat inside of engine cylinder
+					- Remove spark plug
+					- Spray fogging spray into cyclinder
+					- Pull start cord with switch set to off to distribute spray
+					- spray a little more
+					- Inspect spark plug
+					- Use anti seize on spark plug
+					- Reinstall spark plug
+				- Close valves to protect cylinder from moister
+					- Pull pull cord lightly until you feel the point where there is resistance
+					- This is the start of the compression stroke and when the valves are closed
+				- Clean
+					- wipe down outside
+					- add UV protected (amorall) to outside
+	- New better padlock for generator #tobuy
+	- [Building Electronics and Robots for the Desert - OrbSWARM](http://wiki.orbswarm.com/index.php/Building_Electronics_and_Robots_for_the_Desert)
+	- Battery Powered Soldering Iron #tobuy
+		-
+		- https://www.amazon.com/UY-CHAN-Programmable-Pocket-size-Acceleration/dp/B07SQDZ9SV
+		- TS100
+			- plastic
+		- TS80x TS80P
+			- ![Pasted image](https://dynalist.io/u/KqgdiRe11jwJT8Xbknlucqyy)
+		- TS80
+			- 18W
+			- newer then TS100
+			- only works with quick charge
+		- TS80P
+			- https://www.youtube.com/watch?v=8xy3Jg_Wukg
+			- Follow UP
+			  https://www.youtube.com/watch?v=7iYcpiY2T2U
+			- works with PD
+			- 30W
+			- Adds USB c Power delivery support
+			- USB-C
+			- 100-400C
+	- Bike
+		- Installed Aukey Bluetooth speaker on bike
+		- New bike with out rear shock
+		- Some kind of persistence of vision on wheels and light
+	- LEDs
+		- https://github.com/Aircoookie/WLED
+		- [Watch "LED Strips, what's the difference? WS2811, WS2812B, 2812Eco, WS2813, WS2815, SK6812, SK9822." on YouTube](https://youtu.be/QnvircC22hU)
+		- 3d print a clamp to hold down led strip and wires when soldering #3dprinting #project
+	- 3D Print ratchet strap organizer/clip #3dprinting
+		- https://www.thingiverse.com/thing:3359193
+		- https://www.thingiverse.com/thing:3906508
+		- https://www.thingiverse.com/thing:3470984
+		- ![Pasted image](https://dynalist.io/u/9nqTssjH25krRfnAFnnowRoR)
+		- ![Pasted image](https://dynalist.io/u/asVV0sNoNBDGRiYrWrX38kZk)
+	- Camp electrical
+		-
+		- Charge 100 AH batteries #important !(2020-08-01 | 2m)
+		- One of the 100 AH batteries is is showing an error `F05` when put on the charger
+		- Replace broken switch on smaller 12V Battery (used for dome lights)
+		- Finish Black Rock Beach power box #project
+	- Burning Man 2019 Follow up Items
+		- Solar Panel Stand
+			- https://www.amazon.com/dp/B07SS1CDZH/
+				- ![Pasted image](https://dynalist.io/u/6y5Z9PD3glBgDQ0jiRmeq_IS)
+			- https://www.amazon.com/Renogy-Adjustable-Solar-Panel-Brackets/dp/B07CSKFWK7/
+				- ![Pasted image](https://dynalist.io/u/Q56FBWuvI-YkXIOtNwwz3B5h)
+		- Make adapter between Anderson power pole and existing MC4 Cables
+			- [Video:Change Orientation of Anderson Powerpole Connectors for Solar Generator & Solar Panels](https://www.youtube.com/watch?v=KGlPck6CZg0)
+			- Can replace input and output with a single plug
+				- ![Pasted image](https://dynalist.io/u/NSZLFq5k8yJ0qICtAuhUMycM)
+			- Goal Zero sells adapters from MC4 to rotated anderson
+				- https://www.goalzero.com/shop/accessories/mc4-solar-ap-adapter-cable/
+			- Goal Zero Uses "High Power Port (HPP)" connectors which are just anderson connectors stacked vertically
+				- ![Pasted image](https://dynalist.io/u/IBkBOSPh0meVXgPDKp8QRW-Z)
+			- Jackery Explorer 1000 has both barrel and Anderson plugs
+				- ![Pasted image](https://dynalist.io/u/joJtS_1_2b2lzRlia7F6RZdJ)
+		- Fanny pack instead of backpack
+		- New bike
+			- Hard side Cases
+			- Fat tires
+			- Cooler on bike
+			- Solar panel on bike to charge lights
+			- Automatic bike lock with remote or key pad
+		- Bear mask with misters and or cooling fog
+		- Tent
+			- Table for inside tent
+			- Sand filtering mat for tent
+			- Replace tent boxes with tool boxes with drawers
+			- Replace tent boxes with more craftsmen tool boxes
+		- Monocular/binocular for identifying stuff far away
+		- Tools
+			- More craftsman versastack
+	- Tenseract #project
+		- [LEDscustomize (@ledscustomize) • Instagram photos and videos](https://www.instagram.com/ledscustomize/?igshid=1hfhx3vy56bsz&fbclid=IwAR08iVXJ1vKzaYpmYZX-CAnt3syw7s93wynBEaSYQ23KRoKnJys2BOV_eSg)
+		- [home_Aoshowled](http://aoshowled.com/?fbclid=IwAR0pVXV96lmg8qe3Z10Px5BHSEW2KIbxjZTGL0Lze45A-Gu1ngeSidyVGms)
+		- [Interactive Light: LumenUs at GLOW Eindhoven](https://www.youtube.com/watch?v=v8SXWIZsKuA)
+			- https://www.facebook.com/lumenusglow/
+			- ![Pasted image](https://dynalist.io/u/nYK98cWjeC8Ehf4jiY5rdQJ-)
+			- https://www.instagram.com/lumenus_ehv/
+			- ![Pasted image](https://dynalist.io/u/tpL33yd1r1UvEham_mcw89cY)
+			- ![Pasted image](https://dynalist.io/u/NXgR8edtIEJfDz-L3YGXmx4A)
+			- ![Pasted image](https://dynalist.io/u/eWs-9E6YTdAb55IhV_yorIe-)
+			- ![Pasted image](https://dynalist.io/u/OnA5M28aIJIvpKFQk46pQIru)
+			- ![Pasted image](https://dynalist.io/u/axBkVcFg2sGuY8RH6BNtPOud)
+		-
+		- [Come To Light (Milano Design week 2019)](https://www.aria.lighting/en/stories-en/come-to-light-milan-design-week-2019.html?fbclid=IwAR3ELCC1E_RM2huBk7GNbiPNMwhw0FpDnCtVc6kWBKdgFCQBYe_anZLffM0)
+			- [Reveal Video](https://vimeo.com/332703412)
+			- [Teaser Video](https://vimeo.com/330451712)
+		- Fusion 360 - Regular and truncated Icosahedron - YouTube
+		  https://www.youtube.com/watch?v=3OxugEBIMQA&feature=youtu.be&fbclid=IwAR1Z4gcKeV8aLXIe5JwNZ3QzchAOP6ufRDFwo5hP_cGKixen6u5LwJVSNUw
+		- Create test Tensiract cube with elastic and PVC @home
+		- https://www.clenled.com/tube/meteor-tube.html
+		- https://www.facebook.com/clenled5/videos/pcb.303853740598967/303850453932629/?type=3&theater
+		- Tension Adjustment
+			- turnbuckles
+			- bolt or threaded rod inside the pipe with an adjustment screw or hex head at the ends of each pipe
+			- need a way to lock this from loosening with a pin or something
+		- Members
+			- Poly carbonate
+				- https://www.facebook.com/groups/LEDSAREAWESOME/permalink/1371072586421530/?app=fbl
+			- PEX Pipe
+				- https://www.nledshop.com/projects/pexhexagons/
+				- https://www.youtube.com/watch?v=PhzskAo6_xk
+				- https://www.evilgeniuslabs.org/rgb-led-micro-quadrotor-race-gate
+		- Building a small cube
+		  http://you-can-touch-this.blogspot.com/2011/08/how-to-build-tensegrity-cube.html?m=1
+		- Kangaroo for Grasshopper | Udemy
+		  https://www.udemy.com/course/kangaroo/learn/
+		- Tensegrity Prism as Joint
+		  http://bobwb.tripod.com/synergetics/photos/joint.html
+		- Name Ideas (Teseract + Tensegrity)
+			- Tensegrity
+			- Tesseract
+			- **Tenseract**
+			- Teseract
+		- Tensegrity Goes Big for Burning Man : 47 Steps (with Pictures)
+		  https://www.instructables.com/id/Tensegrity-Goes-Big-For-Burning-Man/
+	- Cover old scorpion motorcycle helment in LEDS #project #idea
+		- Cover in LEDs
+		- Disco ball
+		- Add ventilation fan
+		- Horns?
+		- Some kind of animal head?
+	- Get $150 from Jeff Miller for tent
+	- Deal with 2020 Storage Unit Expenses #important
+		- Email Black Rock Beach about storage unit #important #urgent
+		- [Black Rock Beach Storage Unit Google Sheet](https://docs.google.com/spreadsheets/d/1_DtyC9z3jeraUCWSCZ-OnxaB52oQRMu1-tIIl97kAEQ/edit#gid=0)
+		- Send Venmo request !(2020-09-27) #important
+		- Pre Pay for Year
+	- Get cube batteries, controller out of storage to charge @errand #urgent #important
+	- Small power strip for small sockitbox #tobuy
+	  Get a smaller powerstrip for the small sockitbox that people can charge their phones from etc with out
+		- Use existig double strip by cabinet
+		- replace this with strip order from amazon
+-
