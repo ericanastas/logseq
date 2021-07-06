@@ -1,8 +1,9 @@
 - DONE This is a todo item /
-  done:: 1625596022373
+  done:: 1625596572481
+  later:: 1625596570617
 - this is another to do item
-- DONE this is another todo item
-  later:: 1625596070971
+- LATER this is another todo item
+  later:: 1625596570112
   now:: 1625596070601
   done:: 1625596569001
 - blah blah
