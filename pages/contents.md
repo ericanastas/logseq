@@ -1,4 +1,4 @@
 - This is a test
-	- asdfasfd [[3dprinting]]
+	- Linked reference test [[3dprinting]]
 	- asdf
 	- asdf
